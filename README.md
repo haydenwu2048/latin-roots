@@ -1,4 +1,4 @@
-## Latin roots in English Emoji
+## Latin roots in English and Emoji
 ### Directions
 - ambi- : ↔ (both, on both sides)
 - de- : ⬇️ (from, away from, down)
@@ -11,3 +11,19 @@
 - ante-, anti- : 🧍🚗 (before, in front of, prior to)
 
 ### Nouns
+- agri-, -egri- : 🏟️ (field)
+- amic-, -imic- : 👫 👬 👭 (friend)
+- anim- : 🌬 (breath)
+- ann-, -enn- : 3️⃣6️⃣5️⃣ (year)
+- aqu- : 🚰 (water)
+- argent- : 🥈 (silver)
+- audi-, auri-: 👂 (hearing, listening, sound)
+- avi- :  🕊 (bird)
+- bac- : 🦯 (rod)
+- bell- : ⚔️ (war)
+- bi- : 2️⃣ (two)
+- botan- : 🌳 (plant)
+- bov- : 🐄 🐂 (cow, ox)
+- bucc- : 😊 (cheek, mouth, cavity)
+- bull- : 🫧 (bubble, flask)
+- burs- : 👛 (pouch, purse)
