@@ -11,6 +11,13 @@
 9. con-, co-, col-, com-, cor- : ⏪，⏩ (with, together)
 10. contra- : ➡️⬅️
 11. ex-, e-, ef- : 🔚 (from, out)
+12. iter- : 🔄 (again)
+
+### States
+1. in-, im- : ⇲ (in, on)
+2. infra- : 🫗 (below, under)
+3. inter- : 🫱🇧🫲(among, between)
+4. intra- : 📥 (within)
 
 ### Nouns
 1. agri-, -egri- : 🏟️ (field)
@@ -89,7 +96,7 @@
 74. fenestr- : 🪟 (window)
 75. ferr- : 🔩 (iron)
 76. fid-, fis- : ✝️ (faith, trust)
-77. fil- : 🧶 (thred)
+77. fil- : 🧶 (thread)
 78. fili- : 👨‍👦 (son)
 79. fin- : 🏁 (end)
 80. fistul- : 🕳️🧪 (hollow, tube)
@@ -112,3 +119,16 @@
 97. gran- : 🌾🌽 (grain)
 98. greg- : 🕊🕊🕊🕊🕊 (flock)
 99. guttur- : 🗣️ (throat)
+100. herb- : 🌿 (grass)
+101. hered- : 👨‍👩‍👧‍👦 (heir)
+102. hiem- : ⛄️ (winter)
+103. histri- : 🎭 (actor)
+104. homin- : 👩🧑 (human)
+105. honor- : 😎 (esteem)
+106. hort- : 🏡 (garden)
+107. hospit- : 🧑🏽‍🍼👩‍⚕️ (host)
+108. host- : 👺🤛🏻 (enemy)
+109. hum- : 🪦 (ground)
+110. ign- : 🔥 (fire)
+111. insul- : 🏝️ (island)
+112. itiner- : 🛣 (route, way)
